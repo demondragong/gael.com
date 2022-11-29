@@ -1,14 +1,16 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Gaël de Mondragon, freelance web developer"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+My name is Gaël. I'm a former product manager that was eager to create things. So I learned to code.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+As a developer I love to experiment with new technologies.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+I've got solid front-end web development foundations —that means HTML, CSS and JavaScript if you're no too tech-savvy— but I've obviously played a lot with frameworks and libraries such as Django, React and the tools in its ecosystem. 
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+As a former product manager I also know when not to reinvent the wheel. This website is an example of what that means. It was built on top of a fantastic Gatsby theme created by <a href="https://konstantin.digital" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>konstantin.digital</u></a>.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Can I build something like that? I can.
+
+Could I have designed it? Maybe not. Then again, I'm not a designer 🤷
