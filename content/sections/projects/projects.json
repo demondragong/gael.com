@@ -2,13 +2,13 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
+      "category": "🕹️ LATEST PRODUCT",
       "title": "Listofacronyms.com",
-      "description": "Free online tool to easily generate a list of abbreviations to add at the beginning of a document such as a report, proposal, thesis or dissertation.",
-      "tags": ["Vanilla JavaScript", "Tiny product"],
+      "description": "Free online tool to automatically generate a list of abbreviations for a report, proposal, thesis or dissertation.",
+      "tags": ["Vanilla JavaScript", "RegEx", "MVP"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
+        "alt": "screenshot of automatic list of abbreviation making tool",
         "linkTo": "https://listofacronyms.com/"
       },
       "links": [
@@ -20,10 +20,32 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🧰 MY FIRST CREATION",
+      "title": "Distribution of things",
+      "description": "A simple blog where I sometimes publish articles focused on statistical distributions. The layout is a little messy as I recently moved this website from Django to Gatsby but I'll leave it here for the SEO juice ;)",
+      "tags": ["Python", "pandas", "seaborn", "Jupyter", "Gatsby"],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Extendable Layout",
+        "linkTo": "https://distributionofthings.com/"
+      },
+      "links": [
+        {
+          "type":"external",
+          "url": "https://distributionofthings.com/"
+        },
+        {
+          "type":"github",
+          "url": "https://github.com/demondragong/distributionofthings.com"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 TRAINING PROJECT",
+      "title": "Kasa de Gael",
+      "description": "An imaginary flat-sharing platform. The goal of this project was to convert a figma design into a functional website using React and react-router.",
+      "tags": ["React", "react-router", "Sass"],
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
         "alt": "Extendable Layout"
@@ -31,13 +53,47 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/demondragong/kasa-de-gael"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 TRAINING PROJECT",
+      "title": "Sportsee",
+      "description": "A physical activity tracking dashboard built with React and Recharts.",
+      "tags": ["React", "Analytics", "Data viz", "Recharts"],
+      "image": {
+        "src": "../../images/sportsee-activity-tracker-dashboard.png",
+        "alt": "activity tracker dashboard"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/demondragong/sportsee"
+        }        
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 TRAINING PROJECT",
+      "title": "HRnet",
+      "description": "Converting a fictional HR app using deprecated jQuery plugins into a modern React app.",
+      "tags": ["React", "Material UI", "Tailwind", "jQuery"],
+      "image": {
+        "src": "../../images/Screenshot 2022-11-30 at 19.30.46.png",
+        "alt": "screenshot of react training project"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/demondragong/hrnet-react-app"
         }
       ]
     }
   ],
   "button": {
-    "visible": false,
+    "visible": true,
     "label": "See more on Github",
     "url": "https://github.com/demondragong/"
   }
