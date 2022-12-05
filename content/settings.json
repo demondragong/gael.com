@@ -30,7 +30,7 @@
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Legal stuff", "url": "/legal-stuff" }
       ]
     },
     "featureToggles": {

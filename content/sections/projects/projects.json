@@ -3,12 +3,12 @@
     {
       "visible": true,
       "category": "🕹️ LATEST PRODUCT",
-      "title": "Listofacronyms.com",
-      "description": "Free online tool to automatically generate a list of abbreviations for a report, proposal, thesis or dissertation.",
+      "title": "List of acronyms maker",
+      "description": "Free online tool to automatically generate a list of abbreviations for a report, proposal, thesis or dissertation. As of December 2022 I'm trying to validate the need for this product.",
       "tags": ["Vanilla JavaScript", "RegEx", "MVP"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "screenshot of automatic list of abbreviation making tool",
+        "src": "../../images/tool-to-make-list-of-abbreviations.png",
+        "alt": "screenshot of automatic list of abbreviations making tool",
         "linkTo": "https://listofacronyms.com/"
       },
       "links": [
@@ -25,8 +25,8 @@
       "description": "A simple blog where I sometimes publish articles focused on statistical distributions. The layout is a little messy as I recently moved this website from Django to Gatsby but I'll leave it here for the SEO juice ;)",
       "tags": ["Python", "pandas", "seaborn", "Jupyter", "Gatsby"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout",
+        "src": "../../images/collection-of-statistical-distributions.png",
+        "alt": "Collection of statistiscal distributions",
         "linkTo": "https://distributionofthings.com/"
       },
       "links": [
@@ -47,8 +47,9 @@
       "description": "An imaginary flat-sharing platform. The goal of this project was to convert a figma design into a functional website using React and react-router.",
       "tags": ["React", "react-router", "Sass"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/screenshot-apartment-sharing-website.png",
+        "alt": "screenshot of apartment sharing website",
+        "linkTo": "https://github.com/demondragong/kasa-de-gael"
       },
       "links": [
         {
@@ -65,7 +66,8 @@
       "tags": ["React", "Analytics", "Data viz", "Recharts"],
       "image": {
         "src": "../../images/sportsee-activity-tracker-dashboard.png",
-        "alt": "activity tracker dashboard"
+        "alt": "activity tracker dashboard",
+        "linkTo": "https://github.com/demondragong/sportsee"
       },
       "links": [
         {
@@ -81,8 +83,9 @@
       "description": "Converting a fictional HR app using deprecated jQuery plugins into a modern React app.",
       "tags": ["React", "Material UI", "Tailwind", "jQuery"],
       "image": {
-        "src": "../../images/Screenshot 2022-11-30 at 19.30.46.png",
-        "alt": "screenshot of react training project"
+        "src": "../../images/screenshot-of-react-training-project.png",
+        "alt": "screenshot of react training project",
+        "linkTo": "https://github.com/demondragong/hrnet-react-app"
       },
       "links": [
         {
