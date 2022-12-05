@@ -3,7 +3,7 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "Gaël de Mondragon, freelance web developer"
 ---
 
-My name is Gaël. I'm a former product manager who was eager to create things. So I learned to code.
+My name is Gaël de Mondragon. I'm a former product manager who was eager to create things. So I learned to code.
 
 As a web developer, I love to experiment with different technologies. I've got solid front-end development foundations —that means HTML, CSS and JavaScript if you're no too tech-savvy— but I've also played a lot with frameworks and libraries such as Django, React and its ecosystem. 
 

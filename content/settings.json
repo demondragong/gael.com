@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Gaël de Mondragon" },
+    "logo": { "text": "Gaël" },
     "navigation": {
       "header": [
         { "label": "About me", "url": "/#about" },
