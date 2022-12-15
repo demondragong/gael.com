@@ -22,7 +22,7 @@ module.exports = {
         googleAnalytics: {
             trackingId: "G-ERDQ3FBKZZ",
             anonymize: true, // Default true
-            environments: [] // Default ["production"]
+            environments: ["production"] // Default ["production"]
         }
       },
     },
