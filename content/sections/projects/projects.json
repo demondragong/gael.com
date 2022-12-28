@@ -20,6 +20,28 @@
     },
     {
       "visible": true,
+      "category": "💀 QUICK AND DIRTY",
+      "title": "Death by AI",
+      "description": "A clone of the website Killed by Google, but focused on professions, apps, and human activities that are threatened by the recent advances in artificial intelligence.",
+      "tags": ["React", "AI"],
+      "image": {
+        "src": "../../images/death-by-ai-professions-apps-threatened-by-artifical-intelligence.png",
+        "alt": "list of professions and apps threatened by articial intelligence",
+        "linkTo": "https://deathbyai.com/"
+      },
+      "links": [
+        {
+          "type":"external",
+          "url": "https://deathbyai.com/"
+        },
+        {
+          "type":"github",
+          "url": "https://github.com/demondragong/deathbyai"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🧰 MY FIRST CREATION",
       "title": "Distribution of things",
       "description": "A simple blog where I sometimes publish articles focused on statistical distributions. The layout is a little messy as I recently moved this website from Django to Gatsby but I'll leave it here for the SEO juice ;)",
