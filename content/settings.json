@@ -4,16 +4,16 @@
     "siteUrl": "https://gaël.com",
     "title": "Gaël de Mondragon",
     "titleTemplate": "%s · Gaël",
-    "description": "Yet another freelance web developer's website.",
+    "description": "Yet another freelance web developer.",
     "author": "Gaël de Mondragon",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
       "github": "https://github.com/demondragong/",
       "medium": "https://gaeldemondragon.medium.com/",
       "linkedin": "https://www.linkedin.com/in/gaeldemondragon/",
-      "mail": "mailto:demondragon.g@gmail.com"
+      "mail": "mailto:demondragon.g@gmail.com",
+      "mastodon": "https://mas.to/@demondragong"
     }
   },
   "siteConfiguration": {
@@ -26,7 +26,8 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Contact",
-        "url": "mailto:demondragon.g@gmail.com"
+        "url": "mailto:demondragon.g@gmail.com",
+        "visible": false
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
