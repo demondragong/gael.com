@@ -1,13 +1,13 @@
 {
   "name": "Gaël de Mondragon",
   "email": "demondragon.g@gmail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "description": "How to reach me",
   "image": {
     "src": "../../images/favicon.png",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
+    "from": ["LinkedIn", "Mail", "Twitter", "Mastodon"],
     "showIcons": true
   }
 }
