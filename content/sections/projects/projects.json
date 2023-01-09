@@ -4,7 +4,7 @@
       "visible": true,
       "category": "🕹️ LATEST PRODUCT",
       "title": "List of acronyms maker",
-      "description": "Free online tool to automatically generate a list of abbreviations for a report, proposal, thesis or dissertation. As of December 2022 I'm trying to validate the need for this product.",
+      "description": "Free online tool to automatically generate a list of abbreviations for a report, proposal, thesis or dissertation.",
       "tags": ["Vanilla JavaScript", "RegEx", "MVP"],
       "image": {
         "src": "../../images/tool-to-make-list-of-abbreviations.png",
