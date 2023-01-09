@@ -23,12 +23,6 @@
         { "label": "About me", "url": "/#about" },
         { "label": "Projects", "url": "/#projects" }
       ],
-      "ctaButton": {
-        "openNewTab": true,
-        "label": "Contact",
-        "url": "mailto:demondragon.g@gmail.com",
-        "visible": false
-      },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
         { "label": "Legal stuff", "url": "/legal-stuff" }
