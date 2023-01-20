@@ -19,6 +19,10 @@ module.exports = {
           path: "/blog", // Defines the slug for the blog listing page
           usePathPrefixForArticles: false, // Default true (i.e. path will be /blog/first-article)
         },
+        plausibleAnalytics: {
+          // If set, the Plausible.io analytics integration is enabled
+          domain: "gaël.com",
+        },
       },
     },
     {
